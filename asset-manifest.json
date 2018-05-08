@@ -1,5 +1,10 @@
 {
-  "main.js": "static/js/main.31470613.js",
-  "main.js.map": "static/js/main.31470613.js.map",
-  "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.js": "static/js/main.b428e2e6.js",
+  "main.js.map": "static/js/main.b428e2e6.js.map",
+  "static\\media\\React_logo.png": "static/media/React_logo.2b69ab84.png",
+  "static\\media\\Redux_logo.png": "static/media/Redux_logo.684c6918.png",
+  "static\\media\\Sass_logo.png": "static/media/Sass_logo.d7c3f1bb.png",
+  "static\\media\\background-big.jpeg": "static/media/background-big.9efb0b9a.jpeg",
+  "static\\media\\piggame.png": "static/media/piggame.1004401d.png",
+  "static\\media\\todo.png": "static/media/todo.ab9c2e7e.png"
 }
